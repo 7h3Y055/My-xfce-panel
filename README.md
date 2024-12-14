@@ -4,6 +4,16 @@
 
 This repository contains my personal XFCE panel configuration, carefully customized for optimal productivity and aesthetic appeal.
 
+## Screenshots
+
+Here are some screenshots of my XFCE panel configuration:
+
+![Full Panel](imgs/full.png)
+---
+![Right Side](imgs/R.png)
+---
+![Left Side](imgs/L.png)
+
 ## Prerequisites
 
 - XFCE Desktop Environment
